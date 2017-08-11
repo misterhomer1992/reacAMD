@@ -1,0 +1,18 @@
+{
+  "name": "reactAMD",
+  "version": "0.0.1",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-filter": "^5.0.1",
+    "gulp-jsx": "^2.0.1",
+    "http-server": "^0.10.0"
+  },
+  "scripts": {
+    "bundle": "gulp",
+    "server": "http-server"
+  }
+}
